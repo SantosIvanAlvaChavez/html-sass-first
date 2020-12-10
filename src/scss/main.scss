@@ -1,0 +1,20 @@
+// VARS
+$primary-col: blue;
+$back-col: lightgray;
+
+// GENERAL
+body {
+    color: $back-col;
+    background: #000;
+}
+
+h2 {
+    color: $primary-col;
+    text-align: center;
+    text-transform: uppercase;
+}
+
+h3 {
+    color: $primary-col;
+    font-size: 23px;
+}

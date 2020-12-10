@@ -1,0 +1,16 @@
+body {
+  color: lightgray;
+  background: #000;
+}
+
+h2 {
+  color: blue;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+h3 {
+  color: blue;
+  font-size: 23px;
+}
+
